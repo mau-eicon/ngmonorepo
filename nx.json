@@ -1,0 +1,33 @@
+{
+  "npmScope": "my-company",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "content-app": {
+      "tags": []
+    },
+    "content-app-e2e": {
+      "tags": []
+    },
+    "core-lib": {
+      "tags": []
+    },
+    "content-lib": {
+      "tags": []
+    },
+    "process-lib": {
+      "tags": []
+    },
+    "process-app": {
+      "tags": []
+    },
+    "process-app-e2e": {
+      "tags": []
+    }
+  }
+}
